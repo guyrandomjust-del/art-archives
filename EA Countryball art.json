@@ -1,0 +1,206 @@
+{
+  "guild": {
+    "id": "1308065765060116601",
+    "name": "University of Talonà",
+    "iconUrl": "EA Countryball art.json_Files\\696dd6a7e1d50c87bd951ee6b10a7719-11f305c1e04a58f4.png"
+  },
+  "channel": {
+    "id": "1326532212056916141",
+    "type": "GuildPublicThread",
+    "categoryId": "1322119224059105320",
+    "category": "art-archives",
+    "name": "EA Countryball art",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-11-16T10:59:24.2357062+04:00",
+  "messages": [
+    {
+      "id": "1326532212056916141",
+      "type": "Default",
+      "timestamp": "2025-01-08T16:45:25.131+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Art related to ea countryball",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "EA Countryball art.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDFC",
+            "code": "regional_indicator_w",
+            "isAnimated": false,
+            "imageUrl": "EA Countryball art.json_Files\\1f1fc-98795728ba79378d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "850328586317725718",
+              "name": "muggy0219",
+              "discriminator": "0000",
+              "nickname": "| Wizard |",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "EA Countryball art.json_Files\\a8bb0babf7329d2fb67a40de2b684a22-277e8d23359d8209.png"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF9",
+            "code": "regional_indicator_t",
+            "isAnimated": false,
+            "imageUrl": "EA Countryball art.json_Files\\1f1f9-6373b0515b4e7165.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "850328586317725718",
+              "name": "muggy0219",
+              "discriminator": "0000",
+              "nickname": "| Wizard |",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "EA Countryball art.json_Files\\a8bb0babf7329d2fb67a40de2b684a22-277e8d23359d8209.png"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDEB",
+            "code": "regional_indicator_f",
+            "isAnimated": false,
+            "imageUrl": "EA Countryball art.json_Files\\1f1eb-9d84557262eb0f2f.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "850328586317725718",
+              "name": "muggy0219",
+              "discriminator": "0000",
+              "nickname": "| Wizard |",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "EA Countryball art.json_Files\\a8bb0babf7329d2fb67a40de2b684a22-277e8d23359d8209.png"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1326532277190131853",
+      "type": "Default",
+      "timestamp": "2025-01-08T16:45:40.66+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "EA Countryball art.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1326532276993130566",
+          "url": "EA Countryball art.json_Files\\DEE51BF8-A390-4B7C-967D-93A800FEA673-79fab841386e08c6.jpg",
+          "fileName": "DEE51BF8-A390-4B7C-967D-93A800FEA673.jpg",
+          "fileSizeBytes": 35749
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}

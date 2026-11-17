@@ -1,0 +1,320 @@
+{
+  "guild": {
+    "id": "1308065765060116601",
+    "name": "University of Talonà",
+    "iconUrl": "Azurian Art.json_Files\\696dd6a7e1d50c87bd951ee6b10a7719-11f305c1e04a58f4.png"
+  },
+  "channel": {
+    "id": "1322124385552961549",
+    "type": "GuildPublicThread",
+    "categoryId": "1322119224059105320",
+    "category": "art-archives",
+    "name": "Azurian Art",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-11-16T10:59:34.7387337+04:00",
+  "messages": [
+    {
+      "id": "1322124385552961549",
+      "type": "Default",
+      "timestamp": "2024-12-27T12:50:17.399+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Art related to Azuria",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Azurian Art.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDDE3️",
+            "code": "speaking_head",
+            "isAnimated": false,
+            "imageUrl": "Azurian Art.json_Files\\1f5e3-0a22fc0400e5f4ee.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "755640011394646057",
+              "name": "kebabbaroo",
+              "discriminator": "0000",
+              "nickname": "ᴏᴠᴇʀʟᴏᴀᴅᴇᴅ",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "Azurian Art.json_Files\\9c5ccb701094858687393231433693f0-5d1f0d591cf70dcb.png"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDEE1",
+            "code": "\uD83E\uDEE1",
+            "isAnimated": false,
+            "imageUrl": "Azurian Art.json_Files\\1fae1-b19de625d6f4fb3e.svg"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "755640011394646057",
+              "name": "kebabbaroo",
+              "discriminator": "0000",
+              "nickname": "ᴏᴠᴇʀʟᴏᴀᴅᴇᴅ",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "Azurian Art.json_Files\\9c5ccb701094858687393231433693f0-5d1f0d591cf70dcb.png"
+            },
+            {
+              "id": "1110102466076356680",
+              "name": "madbaron1919",
+              "discriminator": "0000",
+              "nickname": "madbaron1919",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "Azurian Art.json_Files\\a91811b5d1adf5dbdfec8f2301512662-8b2bb302f3a29313.png"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1322124511600050227",
+      "type": "Default",
+      "timestamp": "2024-12-27T12:50:47.451+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Azurian Art.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1322124511231082497",
+          "url": "Azurian Art.json_Files\\Untitled951_20240813112515-d14d4640fdc9df77.png",
+          "fileName": "Untitled951_20240813112515.png",
+          "fileSizeBytes": 2090355
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1322127210446065675",
+      "type": "Default",
+      "timestamp": "2024-12-27T13:01:30.906+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Azurian Art.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1322127210135425117",
+          "url": "Azurian Art.json_Files\\Happy_Holidays_From_Azurine_20241204_21404-e5ff56fe13dfb048.png",
+          "fileName": "Happy_Holidays_From_Azurine_20241204_214043_0000.png",
+          "fileSizeBytes": 434807
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1322557391136489555",
+      "type": "Default",
+      "timestamp": "2024-12-28T17:30:53.975+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Azurian Art.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1322557390989557891",
+          "url": "Azurian Art.json_Files\\BEB1846D-AE7D-434D-95B2-5E085660405F-b24a5cf8a7e27909.png",
+          "fileName": "BEB1846D-AE7D-434D-95B2-5E085660405F.png",
+          "fileSizeBytes": 3632236
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 4
+}

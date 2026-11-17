@@ -1,0 +1,382 @@
+{
+  "guild": {
+    "id": "1308065765060116601",
+    "name": "University of Talonà",
+    "iconUrl": "Elected Admin Quarterly.json_Files\\696dd6a7e1d50c87bd951ee6b10a7719-11f305c1e04a58f4.png"
+  },
+  "channel": {
+    "id": "1487836727958704408",
+    "type": "GuildPublicThread",
+    "categoryId": "1321440250198884362",
+    "category": "news-archive",
+    "name": "Elected Admin Quarterly",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-11-16T12:14:25.0288645+04:00",
+  "messages": [
+    {
+      "id": "1487836727958704408",
+      "type": "Default",
+      "timestamp": "2026-03-29T19:31:58.615+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "News from EA Quarterly",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected Admin Quarterly.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1491359168291012639",
+      "type": "Default",
+      "timestamp": "2026-04-08T12:48:53.834+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected Admin Quarterly.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1491359165321576518",
+          "url": "Elected Admin Quarterly.json_Files\\image-24f2e29a54948585.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 304828
+        },
+        {
+          "id": "1491359165573103666",
+          "url": "Elected Admin Quarterly.json_Files\\image-b39fa12a8318d5ce.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 290397
+        },
+        {
+          "id": "1491359165862383689",
+          "url": "Elected Admin Quarterly.json_Files\\httpsdiscord.gg7W4PVSj7-adc284f3ca480e2d.png",
+          "fileName": "httpsdiscord.gg7W4PVSj7.png",
+          "fileSizeBytes": 745955
+        },
+        {
+          "id": "1491359166214963280",
+          "url": "Elected Admin Quarterly.json_Files\\Image_1-11d4c5f5291febba.png",
+          "fileName": "Image_1.png",
+          "fileSizeBytes": 616876
+        },
+        {
+          "id": "1491359166508433428",
+          "url": "Elected Admin Quarterly.json_Files\\Image_2-83e082d3e49bb105.png",
+          "fileName": "Image_2.png",
+          "fileSizeBytes": 547177
+        },
+        {
+          "id": "1491359166940581938",
+          "url": "Elected Admin Quarterly.json_Files\\Image_3-2c0ca57dd552d303.png",
+          "fileName": "Image_3.png",
+          "fileSizeBytes": 747058
+        },
+        {
+          "id": "1491359167280316708",
+          "url": "Elected Admin Quarterly.json_Files\\Image_4-2033f243a515f12e.png",
+          "fileName": "Image_4.png",
+          "fileSizeBytes": 717863
+        },
+        {
+          "id": "1491359167644958830",
+          "url": "Elected Admin Quarterly.json_Files\\Image_5-6d3e12961ee05fbf.png",
+          "fileName": "Image_5.png",
+          "fileSizeBytes": 732361
+        },
+        {
+          "id": "1491359167955599441",
+          "url": "Elected Admin Quarterly.json_Files\\Odessa_is_Back_1-3e8f3fd7ebe54cd2.png",
+          "fileName": "Odessa_is_Back_1.png",
+          "fileSizeBytes": 749926
+        },
+        {
+          "id": "1491359168303468634",
+          "url": "Elected Admin Quarterly.json_Files\\EA_QUARTERLY_4-c9ff23d978a2d64e.png",
+          "fileName": "EA_QUARTERLY_4.png",
+          "fileSizeBytes": 1151123
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1492869849397858324",
+      "type": "Default",
+      "timestamp": "2026-04-12T16:51:48.277+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected Admin Quarterly.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1492869843517571223",
+          "url": "Elected Admin Quarterly.json_Files\\EA_QUARTERLY_5-8c9fa05e4d2e7ad7.png",
+          "fileName": "EA_QUARTERLY_5.png",
+          "fileSizeBytes": 1106877
+        },
+        {
+          "id": "1492869844058640424",
+          "url": "Elected Admin Quarterly.json_Files\\EA_QUARTERLY_6-ce875aa6f9eea0fb.png",
+          "fileName": "EA_QUARTERLY_6.png",
+          "fileSizeBytes": 1239235
+        },
+        {
+          "id": "1492869844536922273",
+          "url": "Elected Admin Quarterly.json_Files\\EA_QUARTERLY_7-8af94fc89c2269f2.png",
+          "fileName": "EA_QUARTERLY_7.png",
+          "fileSizeBytes": 1369084
+        },
+        {
+          "id": "1492869845082050640",
+          "url": "Elected Admin Quarterly.json_Files\\1775781522229-932e7bbd8243cf6f.png",
+          "fileName": "1775781522229.png",
+          "fileSizeBytes": 2963480
+        },
+        {
+          "id": "1492869845904130258",
+          "url": "Elected Admin Quarterly.json_Files\\1775778079862-9d299dac907fe1b2.png",
+          "fileName": "1775778079862.png",
+          "fileSizeBytes": 2398975
+        },
+        {
+          "id": "1492869846549925978",
+          "url": "Elected Admin Quarterly.json_Files\\EA_QUARTERLY_8-1b535b84ef4b41d6.png",
+          "fileName": "EA_QUARTERLY_8.png",
+          "fileSizeBytes": 1531507
+        },
+        {
+          "id": "1492869847011557570",
+          "url": "Elected Admin Quarterly.json_Files\\EA_QUARTERLY_9-a66b087cabde0821.png",
+          "fileName": "EA_QUARTERLY_9.png",
+          "fileSizeBytes": 1369088
+        },
+        {
+          "id": "1492869847846227978",
+          "url": "Elected Admin Quarterly.json_Files\\EA_QUARTERLY_10-6b4e49a3350f8b00.png",
+          "fileName": "EA_QUARTERLY_10.png",
+          "fileSizeBytes": 1377722
+        },
+        {
+          "id": "1492869848387031302",
+          "url": "Elected Admin Quarterly.json_Files\\EA_QUARTERLY_12-dd3bc903334596e8.png",
+          "fileName": "EA_QUARTERLY_12.png",
+          "fileSizeBytes": 1413876
+        },
+        {
+          "id": "1492869849058381936",
+          "url": "Elected Admin Quarterly.json_Files\\EA_QUARTERLY_13-4d7835952478e9c3.png",
+          "fileName": "EA_QUARTERLY_13.png",
+          "fileSizeBytes": 1434445
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493204638101409892",
+      "type": "Default",
+      "timestamp": "2026-04-13T15:02:08.124+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Elected Admin Quarterly.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1493204637510275152",
+          "url": "Elected Admin Quarterly.json_Files\\IMG_1405-50d934308346c0a1.png",
+          "fileName": "IMG_1405.png",
+          "fileSizeBytes": 571633
+        },
+        {
+          "id": "1493204637849747457",
+          "url": "Elected Admin Quarterly.json_Files\\EA_QUARTERLY_14-b95348d7b53f333f.png",
+          "fileName": "EA_QUARTERLY_14.png",
+          "fileSizeBytes": 1309921
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 4
+}
